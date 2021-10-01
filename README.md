@@ -112,14 +112,3 @@ To run the tests:
 npm run test
 ```
 
-## Show your Support
-
-To show your support for my work on this project:
-
-* [Star this repository](https://github.com/gilbitron/laravel-vue-pagination/stargazers)
-* [Tell others about this project](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fgilbitron%2Flaravel-vue-pagination)
-* [Sponsor me on GitHub](https://github.com/users/gilbitron/sponsorship)
-
-## Credits
-
-Laravel Vue Pagination was created by [Gilbert Pellegrom](https://gilbitron.me) from [Dev7studios](https://dev7studios.co). Released under the MIT license.
