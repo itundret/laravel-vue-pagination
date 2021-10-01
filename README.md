@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/gilbitron/laravel-vue-pagination.svg?branch=master)](https://travis-ci.org/gilbitron/laravel-vue-pagination) [![npm](https://img.shields.io/npm/v/laravel-vue-pagination.svg)](https://www.npmjs.com/package/laravel-vue-pagination) [![Downloads](https://img.shields.io/npm/dt/laravel-vue-pagination.svg)](https://www.npmjs.com/package/laravel-vue-pagination)
 
-> Want your logo here? [Sponsor me on GitHub](https://github.com/users/gilbitron/sponsorship)
+
 
 # Laravel Vue Pagination
 A Vue.js pagination component for Laravel paginators that works with Bootstrap.
